@@ -1,0 +1,10 @@
+name,currStock,minStock,barcode
+Needles,10,0,16
+MedEquipment1,10,0,71
+MedEquipment2,11,0,86
+MedEquipment3,12,0,93
+MedEquipment4,13,0,92
+MedEquipment5,14,20,12
+MedEquipment6,15,0,40
+MedEquipment7,16,0,23
+MedEquipment8,17,18,15

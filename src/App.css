@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.no-hilite {
+  background-color: chartreuse;
+}
+
+.hilite {
+  background-color: crimson;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
